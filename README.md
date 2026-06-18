@@ -1,4 +1,3 @@
-# Weather-ETL-Pipeline-Project
 # 🌦️ Weather Data ETL Pipeline
 
 ## Project Overview
