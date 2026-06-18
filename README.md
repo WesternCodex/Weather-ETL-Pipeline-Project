@@ -134,12 +134,14 @@ Weather-ETL/
 │   ├── weather_data.csv
 │   └── weather_data.xlsx
 │   └── weather_data.db
+|   └── weather_data.mp4
+|   └── screenshorts
 ├── notebooks/
 │   └── OpenWeatherETL.ipynb
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+
 ```
 
 ---
