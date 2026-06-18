@@ -152,6 +152,4 @@ Data Analyst | Python | SQL | Power BI | ETL | Data Visualization
 
 ---
 
-## License
 
-This project is available under the MIT License.
