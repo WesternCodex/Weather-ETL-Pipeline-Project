@@ -136,6 +136,8 @@ Weather-ETL/
 │   └── weather_data.db
 |   └── weather_data.mp4
 |   └── screenshorts
+|
+|
 ├── notebooks/
 │   └── OpenWeatherETL.ipynb
 │
