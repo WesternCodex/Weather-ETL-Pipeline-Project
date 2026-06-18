@@ -131,11 +131,11 @@ Potential enhancements to this project include:
 Weather-ETL/
 │
 ├── data/
-│   ├── raw_weather.csv
-│   └── transformed_weather.csv
-│
+│   ├── weather_data.csv
+│   └── weather_data.xlsx
+│   └── weather_data.db
 ├── notebooks/
-│   └── Weather_ETL.ipynb
+│   └── OpenWeatherETL.ipynb
 │
 ├── README.md
 ├── requirements.txt
