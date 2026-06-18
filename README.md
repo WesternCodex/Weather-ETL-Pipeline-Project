@@ -56,7 +56,7 @@ The transformation stage included several data cleaning and enhancement tasks:
 
 ### 3. Load
 
-The transformed dataset was exported into a CSV file for further analysis and visualization.
+The transformed dataset was exported into a CSV, xlsx file and SQlite3 db for further analysis and visualization.
 
 The cleaned dataset can easily be imported into:
 
